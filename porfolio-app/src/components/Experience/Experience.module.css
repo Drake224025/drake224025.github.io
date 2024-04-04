@@ -68,8 +68,8 @@
   flex-direction: row;
   align-items: center;
   gap: 17px;
-  background: #9ac2c1;
-  background: linear-gradient(90deg, #9ac2c1 0%, rgba(74, 98, 126, 1) 100%);
+  background: #2b3444;
+  background: linear-gradient(90deg, #818480 0%, #2b3444 100%);
   border-radius: 10px;
   padding: 24px;
 }
