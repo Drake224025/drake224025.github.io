@@ -1,34 +1,34 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Currency Converter",
+    "imageSrc": "projects/currency_converter.png",
+    "description": "Implement custom hooks, handle API requests, ensure components reusability, and create a currency conversion project.",
+    "skills": ["React", "API"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Landing Page",
+    "imageSrc": "projects/react_router.png",
+    "description": "Implement React routing using react-router-dom and create a simple portfolio application.This project introduces routing concepts in React.",
+    "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "ToDo List",
+    "imageSrc": "projects/to_do_list.png",
+    "description": "Implement local storage for managing application data. Uses Context API with local storage to persist data and manage state.",
+    "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
-    "title": "Project D",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Password generator",
+    "imageSrc": "projects/password_generator.png",
+    "description": "Implement useEffect, useCallback, useRef, and create a memoization project for a performance optimized password generator. ",
+    "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Drake224025/reactjs-projects"
   }
 ]
