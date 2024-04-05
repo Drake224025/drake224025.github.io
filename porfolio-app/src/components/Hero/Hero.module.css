@@ -24,7 +24,7 @@
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
-  background: linear-gradient(90deg, #e7e5e5 0%, #92b686 100%);
+  background: linear-gradient(90deg, #f7f5f0 0%, #8c654a 100%);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -44,7 +44,7 @@
   font-size: 30px;
   font-weight: 600;
   padding: 17px 26px;
-  box-shadow: 0 0 4px 0 #92b686;
+  box-shadow: 0 0 4px 0 #7d6982;
 }
 
 .heroImg {
@@ -78,8 +78,8 @@
   top: -128px;
   left: -10vw;
   border-radius: 764px;
-  background: rgba(139, 153, 154, 1);
-  filter: blur(250px);
+  background: #625369;
+  filter: blur(100px);
   z-index: 0;
 }
 
@@ -92,8 +92,8 @@
   top: 246px;
   right: -25vw;
   border-radius: 764px;
-  background: rgba(139, 153, 154, 1);
-  filter: blur(250px);
+  background: #625369;
+  filter: blur(100px);
   z-index: 0;
 }
 

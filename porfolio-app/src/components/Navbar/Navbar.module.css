@@ -65,9 +65,9 @@
     gap: 13px;
     border-radius: 10px;
     background: #2b3444;
-    background: linear-gradient(0deg, #818480 0%, #211b39 100%);
+    background: linear-gradient(0deg, #4c3a51 0%, #625369 100%);
     padding: 24px 33px;
-    box-shadow: 0 0 4px 0 #92b686;
+    box-shadow: 0 0 4px 0 #7d6982;
   }
 
   .menuOpen {

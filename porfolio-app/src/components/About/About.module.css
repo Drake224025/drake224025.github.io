@@ -2,7 +2,7 @@
 
 .container {
   position: relative;
-  background-color: #818480;
+  background-color: #7d6982;
   border-radius: 15px;
   padding: 73px;
   margin-top: 129px;
@@ -43,7 +43,7 @@
   border-radius: 20px;
   list-style: none;
   padding: 25px;
-  background-image: linear-gradient(90deg, #2b3444 0%, #818480 100%);
+  background-image: linear-gradient(90deg, #4c3a51 0%, #7d6982 100%);
   background-size: 0 100%;
   background-repeat: no-repeat;
   transition: 0.4s;
