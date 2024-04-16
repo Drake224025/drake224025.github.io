@@ -6,7 +6,7 @@
     "endDate": "Feb, 2020",
     "experiences": [
       "Developed REST APIs and implemented authentication protocols, such as OAuth, to securely expose data to clients",
-      "Utilized library and frameworks such as React, Angular to create interactive user interfaces"
+      "Utilized React and Angular libraries to create interactive user interfaces, enhancing user experience."
     ],
     "imageSrc": "history/company.png"
   },
@@ -27,7 +27,7 @@
     "startDate": "Feb, 2018",
     "endDate": "Aug, 2018",
     "experiences": [
-      "Researched new technologies and trends in the industry",
+      "Researched new technologies and trends in the industry, improving processes and generating new ideas.",
       "Completed tasks accurately and efficiently with minimal supervision"
     ],
     "imageSrc": "history/company.png"
