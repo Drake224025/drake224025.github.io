@@ -1,8 +1,24 @@
 [
   {
+    "title": "Bookstore MERN",
+    "imageSrc": "projects/mern_bookstore.png",
+    "description": "A MERN Bookstore project showcasing skills in MongoDB, Express, React, and Node.",
+    "skills": ["Mongo", "Express", "React", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Drake224025/mern-bookstore"
+  },
+  {
+    "title": "Weather Application",
+    "imageSrc": "projects/weather_app.png",
+    "description": "A React-based Weather App fetching current weather data from OpenWeatherMap API.",
+    "skills": ["React", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Drake224025/reactjs-projects"
+  },
+  {
     "title": "Currency Converter",
     "imageSrc": "projects/currency_converter.png",
-    "description": "Implement custom hooks, handle API requests, ensure components reusability, and create a currency conversion project.",
+    "description": "Utilizes custom hooks and API handling for a reusable currency conversion project.",
     "skills": ["React", "API"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Drake224025/reactjs-projects"
@@ -10,7 +26,7 @@
   {
     "title": "Landing Page",
     "imageSrc": "projects/react_router.png",
-    "description": "Implement React routing using react-router-dom and create a simple portfolio application.This project introduces routing concepts in React.",
+    "description": "Implements React routing with react-router-dom for a simple portfolio app, introducing routing concepts.",
     "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Drake224025/reactjs-projects"
@@ -18,7 +34,7 @@
   {
     "title": "ToDo List",
     "imageSrc": "projects/to_do_list.png",
-    "description": "Implement local storage for managing application data. Uses Context API with local storage to persist data and manage state.",
+    "description": "Uses local storage and Context API with React for data persistence and state management in a ToDo List.",
     "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Drake224025/reactjs-projects"
@@ -26,7 +42,7 @@
   {
     "title": "Password generator",
     "imageSrc": "projects/password_generator.png",
-    "description": "Implement useEffect, useCallback, useRef, and create a memoization project for a performance optimized password generator. ",
+    "description": "Implements performance optimizations with useEffect, useCallback, useRef, and memoization for a password generator project",
     "skills": ["React", "Tailwind"],
     "demo": "https://www.example.com",
     "source": "https://github.com/Drake224025/reactjs-projects"
