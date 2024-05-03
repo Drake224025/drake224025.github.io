@@ -4,7 +4,7 @@
     "imageSrc": "projects/mern_bookstore.png",
     "description": "A MERN Bookstore project showcasing skills in MongoDB, Express, React, and Node.",
     "skills": ["Mongo", "Express", "React", "Node"],
-    "demo": "https://www.example.com",
+    "demo": "https://github.com/Drake224025",
     "source": "https://github.com/Drake224025/mern-bookstore"
   },
   {
@@ -12,7 +12,7 @@
     "imageSrc": "projects/weather_app.png",
     "description": "A React-based Weather App fetching current weather data from OpenWeatherMap API.",
     "skills": ["React", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://github.com/Drake224025",
     "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
@@ -20,7 +20,7 @@
     "imageSrc": "projects/currency_converter.png",
     "description": "Utilizes custom hooks and API handling for a reusable currency conversion project.",
     "skills": ["React", "API"],
-    "demo": "https://www.example.com",
+    "demo": "https://playful-speculoos-04b07a.netlify.app/",
     "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
@@ -28,7 +28,7 @@
     "imageSrc": "projects/react_router.png",
     "description": "Implements React routing with react-router-dom for a simple portfolio app, introducing routing concepts.",
     "skills": ["React", "Tailwind"],
-    "demo": "https://www.example.com",
+    "demo": "https://charming-yeot-1abcb1.netlify.app/",
     "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
@@ -36,7 +36,7 @@
     "imageSrc": "projects/to_do_list.png",
     "description": "Uses local storage and Context API with React for data persistence and state management in a ToDo List.",
     "skills": ["React", "Tailwind"],
-    "demo": "https://www.example.com",
+    "demo": "https://mellow-centaur-81b8c6.netlify.app/",
     "source": "https://github.com/Drake224025/reactjs-projects"
   },
   {
@@ -44,7 +44,7 @@
     "imageSrc": "projects/password_generator.png",
     "description": "Implements performance optimizations with useEffect, useCallback, useRef, and memoization for a password generator project",
     "skills": ["React", "Tailwind"],
-    "demo": "https://www.example.com",
+    "demo": "https://github.com/Drake224025",
     "source": "https://github.com/Drake224025/reactjs-projects"
   }
 ]
